@@ -1,14 +1,6 @@
 [build]
-  functions = "api"
-  publish = "site"
-  command = "npm run app:build"
-
-[dev]
-  command = "npm run app:serve"
-  autoLaunch = false
-  port = 8888
-  targetPort = 8001
-  framework = "#custom"
+  publish = "docs"
+  command = "npm run build"
 
 [[redirects]]
   from = "/*"
