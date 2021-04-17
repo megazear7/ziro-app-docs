@@ -22,7 +22,7 @@ export default context => html`
     <div><a class="app-img" target="_blank" href="https://ziro-app-example.alexlockhart.me/"><img src="/images/ziro-app-screenshot.png"></a></div>
     <h5>Get Started</h5>
     <p>To start your Zirp App project you will need to install the ziro-cli as shown below, and then use it to create the project. The name you provide will be used for naming components, namespaces, etc.</p>
-    ${context.mdFile('./docs/partials/get-started.md')}
+    ${context.mdFile('./src/partials/get-started.md')}
     <h5>Creating components</h5>
     <p>To create components, follow the examples under src/app/components. These should be where you connect to the application state and implement most of your functionality.</p>
     <h5>Connecting to APIs</h5>
