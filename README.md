@@ -1,8 +1,10 @@
 # Ziro App Docs
 
+The documentation for the Ziro App web app builder hosted at [ziro-app.alexlockhart.me](https://ziro-app.alexlockhart.me/).
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d515278b-0660-4917-a313-71cac3cec868/deploy-status)](https://app.netlify.com/sites/ziro-app-docs/deploys)
 
-The documentation for the Ziro App web app builder hosted at [ziro-app.alexlockhart.me](https://ziro-app.alexlockhart.me/).
+[A Ziro Project](https://ziro.alexlockhart.me/)
 
 ## Develop
 
