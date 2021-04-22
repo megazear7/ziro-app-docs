@@ -1,6 +1,6 @@
 {
   "name": "Ziro App",
-  "short_name": "ZiroApp",
+  "short_name": "Ziro App",
   "description": "An ultra opinionated web app development framework.",
   "start_url": "/",
   "display": "standalone",
